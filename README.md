@@ -20,6 +20,14 @@ This project is a **date range picker** component built from scratch using **Rea
 - **CSS** 
 - **FontAwesome Icons** 
 
+## Installation
+
+Clone the repository and install the necessary dependencies.
+
+git clone https://github.com/Kartheek245/date-picker.git
+npm install
+npm start
+
 ## Props
 The DateRangePicker component accept several props that allow customization and functionality control.
 
