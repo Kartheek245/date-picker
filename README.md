@@ -24,14 +24,14 @@ This project is a **date range picker** component built from scratch using **Rea
 
 Clone the repository and install the necessary dependencies.
 
-git clone https://github.com/Kartheek245/date-picker.git
-npm install
-npm start
+- git clone https://github.com/Kartheek245/date-picker.git
+- npm install
+- npm start
 
 ## Props
 The DateRangePicker component accept several props that allow customization and functionality control.
 
-**maxDays** - Range of maximum days that can be selected(default set to 30)
-**disablePastDays** - Boolean value whether to disable past days(default set to true)
-**advancedMode** - Boolean value to change the mode of the selecter (default set to false)
+- **maxDays** - Range of maximum days that can be selected(default set to 30)
+- **disablePastDays** - Boolean value whether to disable past days(default set to true)
+- **advancedMode** - Boolean value to change the mode of the selecter (default set to false)
 
